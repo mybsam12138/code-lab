@@ -1,0 +1,22 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output
+/target/
+/out/
+/build/
+
+# Logs
+*.log
+
+# JVM
+hs_err_pid*
+
+# Env
+.env
