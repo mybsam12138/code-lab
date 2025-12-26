@@ -11,8 +11,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.sam</groupId>
-    <artifactId>githubtoolkit</artifactId>
+    <groupId>com.sam</groupId>
+    <artifactId>code-lab</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
